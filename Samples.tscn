@@ -1,0 +1,12 @@
+[gd_scene load_steps=2 format=3 uid="uid://d3j7o2nqxljy"]
+
+[ext_resource type="PackedScene" uid="uid://dk7mmkxo5o3hx" path="res://spatial/3D_topdown_gradient/NightTable/NightTable.tscn" id="3_bg6th"]
+
+[node name="Node" type="Node"]
+
+[node name="NightTable2" parent="." instance=ExtResource("3_bg6th")]
+transform = Transform3D(-1, 0, -8.74228e-08, 0, 1, 0, 8.74228e-08, 0, -1, 1.46723, -6.52527, 7.05702)
+
+[node name="Camera3D" type="Camera3D" parent="."]
+transform = Transform3D(0.772126, -0.000249785, 0.63547, 0.00134844, 0.999998, -0.00124534, -0.635469, 0.00181845, 0.772125, 3.90373, 2.16935, 4.25607)
+current = true

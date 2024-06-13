@@ -1,0 +1,6 @@
+[gd_resource type="ShaderMaterial" load_steps=2 format=3 uid="uid://jgw47nyu5u3g"]
+
+[ext_resource type="Shader" path="res://canvas/2D_color_manipulation/icon.gdshader" id="1_jwqv6"]
+
+[resource]
+shader = ExtResource("1_jwqv6")
