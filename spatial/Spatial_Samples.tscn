@@ -1,6 +1,6 @@
 [gd_scene load_steps=2 format=3 uid="uid://d3j7o2nqxljy"]
 
-[ext_resource type="PackedScene" uid="uid://dk7mmkxo5o3hx" path="res://spatial/3D_topdown_gradient/NightTable/NightTable.tscn" id="3_bg6th"]
+[ext_resource type="PackedScene" uid="uid://dk7mmkxo5o3hx" path="res://spatial/topdown_gradient/NightTable/NightTable.tscn" id="3_bg6th"]
 
 [node name="Node" type="Node"]
 

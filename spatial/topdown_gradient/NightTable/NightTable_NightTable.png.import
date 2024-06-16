@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bbpml5ypim5qw"
-path.s3tc="res://.godot/imported/NightTable_NightTable.png-38252cedba4ac055a41ccd3d6c092d43.s3tc.ctex"
+path.s3tc="res://.godot/imported/NightTable_NightTable.png-00f1857758b1ecf25041b3503ad6a4bb.s3tc.ctex"
 metadata={
 "imported_formats": ["s3tc_bptc"],
 "vram_texture": true
@@ -14,8 +14,8 @@ generator_parameters={
 
 [deps]
 
-source_file="res://spatial/3D_topdown_gradient/NightTable/NightTable_NightTable.png"
-dest_files=["res://.godot/imported/NightTable_NightTable.png-38252cedba4ac055a41ccd3d6c092d43.s3tc.ctex"]
+source_file="res://spatial/topdown_gradient/NightTable/NightTable_NightTable.png"
+dest_files=["res://.godot/imported/NightTable_NightTable.png-00f1857758b1ecf25041b3503ad6a4bb.s3tc.ctex"]
 
 [params]
 

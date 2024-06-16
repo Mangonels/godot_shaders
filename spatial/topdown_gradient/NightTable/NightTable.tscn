@@ -1,0 +1,13 @@
+[gd_scene load_steps=4 format=3 uid="uid://dk7mmkxo5o3hx"]
+
+[ext_resource type="PackedScene" uid="uid://co66romf6473y" path="res://spatial/topdown_gradient/NightTable/NightTable.glb" id="1_5mwlb"]
+[ext_resource type="Script" path="res://spatial/topdown_gradient/topdown_gradient_uniforms.gd" id="2_17pmn"]
+[ext_resource type="Material" uid="uid://37d0mneaua63" path="res://spatial/topdown_gradient/topdown_gradient.tres" id="3_75cwy"]
+
+
+[node name="NightTable2" instance=ExtResource("1_5mwlb")]
+script = ExtResource("2_17pmn")
+
+[node name="NightTable" parent="." index="0"]
+transform = Transform3D(-4.37114e-08, 0, 0.956647, 0, 0.77323, 0, -1, 0, -4.18164e-08, 2.48187, 6.76328, 8.72993)
+surface_material_override/0 = ExtResource("3_75cwy")

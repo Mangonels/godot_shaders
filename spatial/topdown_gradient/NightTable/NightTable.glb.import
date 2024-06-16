@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://co66romf6473y"
-path="res://.godot/imported/NightTable.glb-ad7830322d31789276fe0471d82783c5.scn"
+path="res://.godot/imported/NightTable.glb-6966ed439e5962c446a1e97755c63ea0.scn"
 
 [deps]
 
-source_file="res://spatial/3D_topdown_gradient/NightTable/NightTable.glb"
-dest_files=["res://.godot/imported/NightTable.glb-ad7830322d31789276fe0471d82783c5.scn"]
+source_file="res://spatial/topdown_gradient/NightTable/NightTable.glb"
+dest_files=["res://.godot/imported/NightTable.glb-6966ed439e5962c446a1e97755c63ea0.scn"]
 
 [params]
 
